@@ -14,7 +14,7 @@ using namespace std;
 int main() {
 	ifstream f("test.in");
 	string c;
-	cout<<"Introdu date:";
+	cout<<"Introduceti date:";
 	cin>>c;
 	cout << c; // prints !!!Hello World!!!
 	return 0;
